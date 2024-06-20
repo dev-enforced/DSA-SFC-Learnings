@@ -27,4 +27,6 @@ int main(){
 	}else{
 		cout<<"You are a beginner"<<endl;
 	}
+
+	return 0;
 }
